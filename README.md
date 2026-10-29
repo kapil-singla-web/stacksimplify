@@ -1,1 +1,1 @@
-# stacksimplyfy
+# stacksimplify
